@@ -1,2 +1,0 @@
-# cosmo
-for learning 
