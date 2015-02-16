@@ -24,7 +24,7 @@ void selectSort(int data[], int len)
 	}
 }
 
-int main()
+int main(int argc, char *agrv[])
 {
 	int a[]={1,3,6,11,434,56,0,-81};
 	selectSort(a,sizeof(a)/sizeof(int));
